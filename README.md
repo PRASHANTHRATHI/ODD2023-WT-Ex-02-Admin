@@ -1,5 +1,5 @@
 # Ex-02-Admin
-## Name:Prashanth K
+## Name:PRASHANTH K
 ## Reference number:23002136
 
 # AIM
@@ -19,7 +19,7 @@ Setting e-mail for all users
 step 4:
 Setting the first name and last name for all users
 
-#output:
+# output:
 ![Screenshot 2023-10-25 060124](https://github.com/PRASHANTHRATHI/ODD2023-WT-Ex-02-Admin/assets/145743120/75a00462-6542-4f63-984c-9fddfaca067a)
 
 #Result:
