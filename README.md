@@ -1,6 +1,6 @@
 # Ex-02-Admin
-Name:Prashanth K
-Reference number:23002136
+## Name:Prashanth K
+## Reference number:23002136
 
 # AIM
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
